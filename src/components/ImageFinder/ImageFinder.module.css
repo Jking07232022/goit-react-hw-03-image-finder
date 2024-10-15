@@ -1,0 +1,11 @@
+.image-finder {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+  background: linear-gradient(
+    to top right,
+    rgb(179, 179, 179),
+    rgb(43, 42, 42)
+  );
+}
